@@ -27,13 +27,6 @@ export default function Intro() {
           <h3>
             Freelance <span ref={textRef}></span>
           </h3>
-          <p>
-            I am the master of HTML, CSS and Javascript. I know everything
-            needed to make a website function, efficient. I didn't stop with the
-            web. I went beyond with most popular Javascript framework called
-            React JS. I even know the deployment, server and security. I will
-            give you 100% web solution..
-          </p>
         </div>
 
         <a href="#portfolio">

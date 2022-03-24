@@ -74,7 +74,7 @@ const Portfolio = () => {
         {data.map((d) => (
           <div className="item">
             <img src={d.img} alt="" />
-            <h3>{d.title}</h3>
+            <h3>{d.title}</h3> <br />
           </div>
         ))}
       </div>
